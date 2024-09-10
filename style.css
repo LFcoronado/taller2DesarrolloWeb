@@ -1,0 +1,13 @@
+/* styles.css */
+body {
+    padding-top: 56px; /* Ajustar el espacio superior para el navbar fijo */
+}
+
+.card-img-top {
+    height: 180px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+}
